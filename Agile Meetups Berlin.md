@@ -16,5 +16,3 @@
 14.  [Scrumtisch](https://www.agile42.com/en/blog/category/scrumtisch/) 
 15.  [Start Lean](https://www.meetup.com/startlean/) 
 16.  [Teamwork Development Lab](https://www.meetup.com/Teamwork-Development-Lab/) 
-
-
